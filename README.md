@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rikkoricardo&label=Profile%20views&color=0e75b6&style=flat" alt="rikkoricardo" /> </p>
 
-- 📫 How to reach me **ricardofonseca673@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
