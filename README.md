@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Ricardo</h1>
-<h3 align="center">A passionate Software Developer from Portugal</h3>
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b76119951ce7ba75ca633bc89cae7be43555cc598d461&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rikkoricardo&label=Profile%20views&color=0e75b6&style=flat" alt="rikkoricardo" /> </p>
