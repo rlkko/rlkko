@@ -27,7 +27,7 @@
     </p>
   <div>
     <img alt="Coding" width="400" src="https://github-readme-stats.vercel.app/api?username=rikkoRicardo&theme=swift&hide_border=false&include_all_commits=true&count_private=true">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rikkoRicardo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rikkoRicardo&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150" alt="languages graph" />
   </div>
   
   <div>
