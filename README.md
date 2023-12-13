@@ -1,6 +1,6 @@
 <div>
   <div>
-      <img align="rht" width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rikkoRicardo&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150" alt="languages graph" >
+      <img align="right" width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rikkoRicardo&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150" alt="languages graph" >
       <h2>Languages and Tools:</h2>
       <p width="20%">
         <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
